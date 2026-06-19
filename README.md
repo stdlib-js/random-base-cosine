@@ -441,6 +441,7 @@ for ( i = 0; i < 100; i++ ) {
 -   <span class="package-name">[`@stdlib/random-array/cosine`][@stdlib/random/array/cosine]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a raised cosine distribution.</span>
 -   <span class="package-name">[`@stdlib/random-iter/cosine`][@stdlib/random/iter/cosine]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from a raised cosine distribution.</span>
 -   <span class="package-name">[`@stdlib/random-streams/cosine`][@stdlib/random/streams/cosine]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from a raised cosine distribution.</span>
+-   <span class="package-name">[`@stdlib/random-cosine`][@stdlib/random/cosine]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a raised cosine distribution.</span>
 
 </section>
 
@@ -529,6 +530,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/iter/cosine]: https://github.com/stdlib-js/random-iter-cosine
 
 [@stdlib/random/streams/cosine]: https://github.com/stdlib-js/random-streams-cosine
+
+[@stdlib/random/cosine]: https://github.com/stdlib-js/random-cosine
 
 <!-- </related-links> -->
 
